@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Katarina Majetić
-email: # katarina.majetic@mail.mcgill.ca
+email: # katarina.majetic@outlook.com
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -26,7 +26,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 github_username: #your github username
 twitter_username: # your twitter username
-linkedin_username: # your LinkedIn user name
+linkedin_username: katarina-majetic
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -35,15 +35,15 @@ publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
-contact_note: > # Don't forget to Like, Comment, and Subscribe!
+contact_note: > # 
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: # Aram's math blog
-blog_description: # Where a non-expert tries to talk about expert things
+blog_name: # 
+blog_description: # 
 
 # Pagination
 paginate: 4
@@ -59,8 +59,8 @@ text:
 disqus_shortname: al-folio # put your disqus shortname
 
 # Optional features
-show_social_icons:  false
-enable_anchorjs:    false
+show_social_icons:  true
+enable_anchorjs:    true
 enable_katex:       true
 
 # -----------------------------------------------------------------------------

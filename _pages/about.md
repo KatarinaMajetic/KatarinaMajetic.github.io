@@ -5,7 +5,7 @@ title: Katarina Majetić
 description: <a href="https://www.mcgill.ca/mathstat/">Department of Mathematics and Statistics, McGill University</a>
 
 profile:
-  align: left
+  align: right
   image: headshot.jpg
   address: >
     <!-- <p>1007 Burnside Hall, McGill University</p> -->
@@ -13,9 +13,12 @@ profile:
     <!-- <p>Your City, State 12345</p> -->
 
 news: false
-social: false
+social: true
 ---
 
-I'm FRoM GeRManY
+I am a Master's student in statistics at McGill University, where I'm supervised by Professor <a href="https://scholar.google.ca/citations?hl=en&user=-HzKeNwAAAAJ&view_op=list_works&sortby=pubdate">Russel Steele</a>. In February 2020, I completed a Bachelor of Science in Mathematics with a minor in Economics at McGill University.
 
-Email: katarina[dot]majetic[at]math[dot]mcgill[dot]ca
+My research interests are in Causal Inference, with a focus on nested case control sampling and statistical modeling.
+
+Email: katarina[dot]majetic[at]outlookl[dot]com
+
