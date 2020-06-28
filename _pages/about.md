@@ -16,7 +16,7 @@ news: false
 social: true
 ---
 
-I am a Master's student in statistics at McGill University, where I'm supervised by Professor <a href="https://scholar.google.ca/citations?hl=en&user=-HzKeNwAAAAJ&view_op=list_works&sortby=pubdate">Russel Steele</a>. In February 2020, I completed a Bachelor of Science in Mathematics with a minor in Economics at McGill University.
+I am a Master's student in statistics at McGill University, where I'm supervised by Professor <a href="https://scholar.google.ca/citations?hl=en&user=-HzKeNwAAAAJ&view_op=list_works&sortby=pubdate">Russell Steele</a>. In February 2020, I completed a Bachelor of Science in Mathematics with a minor in Economics at McGill University.
 
 My research interests are in Causal Inference, with a focus on nested case control sampling and statistical modeling.
 
