@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: Katarina Majetić
+title: Katarina Boston Majetić
 description: <a href="https://www.mcgill.ca/mathstat/">Department of Mathematics and Statistics, McGill University</a>
 
 profile:
